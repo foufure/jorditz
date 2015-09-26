@@ -50,6 +50,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="Premotion.AspNet.AppHarbor.Integration">
+      <HintPath>..\packages\Premotion.AspNet.AppHarbor.Integration.0.5.0\lib\net40\Premotion.AspNet.AppHarbor.Integration.dll</HintPath>
+    </Reference>
     <Reference Include="Rotativa">
       <HintPath>..\packages\Rotativa.1.6.4\lib\net40\Rotativa.dll</HintPath>
     </Reference>

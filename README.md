@@ -7,7 +7,10 @@ This is also part of my portfolio for demonstrating knowledge and mastery of the
 
 ## Requirements
 
-[Rotativa](https://github.com/webgio/Rotativa): thanks to the contributors of this great project!
+[Rotativa](https://github.com/webgio/Rotativa)
+[Premotion-AspNet-AppHarbor-Integration](https://github.com/devatwork/Premotion-AspNet-AppHarbor-Integration) 
+
+Thanks to the contributors of these great projects!
 
 ## Contributing
 
