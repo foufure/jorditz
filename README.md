@@ -5,6 +5,10 @@ This is my up-to-date CV, that you can find on appharbor: [Jonathan Orditz](http
 
 This is also part of my portfolio for demonstrating knowledge and mastery of the different technologies and my participation and usage of open-source technologies.
 
+## Requirements
+
+[Rotativa](https://github.com/webgio/Rotativa): thanks to the contributors of this great project!
+
 ## Contributing
 
 Feedback and Bug reports are welcome on GitHub at https://github.com/foufure/jorditz.
