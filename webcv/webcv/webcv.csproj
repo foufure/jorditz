@@ -109,7 +109,9 @@
     <Content Include="Content\assets\favicon.ico" />
     <Content Include="Content\assets\images\profile.png" />
     <Content Include="Global.asax" />
-    <Content Include="google963d75e75daf3df9.html" />
+    <Content Include="google963d75e75daf3df9.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Rotativa\wkhtmltopdf.exe" />
     <Content Include="Scripts\assets\js\main.js" />
     <Content Include="App_Browsers\qt.browser" />
