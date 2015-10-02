@@ -12,6 +12,7 @@ namespace webcv
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+            routes.IgnoreRoute("google963d75e75daf3df9.html");
 
             routes.MapRoute(
                 name: "Default",
